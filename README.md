@@ -1,15 +1,5 @@
 # Medical-ViT-Explainability
-Comparative study of CNNs and Vision Transformers for Medical X-ray Analysis.
-This version is written to sound like a **passionate student researcher**. It avoids the generic "AI-style" corporate buzzwords and focuses on your personal journey from NLP to Computer Vision.
-
-***
-
-# Medical Image Analysis: Can Vision Transformers replace CNNs?
-
-### Why I built this
-As I transition from my background in **Natural Language Processing (NLP)** toward **Computer Vision**, I wanted to understand one of the biggest debates in the field: **Do Transformers (which changed NLP forever) actually work better than traditional CNNs for medical scans?**
-
-In medical AI, "high accuracy" isn't enough. A doctor needs to know *why* a model thinks a patient has pneumonia. This project is my hands-on study of **Accuracy vs. Explainability** in clinical diagnostics.
+Comparative study of CNNs and Vision Transformers for Medical X-ray Analysis. In medical AI, "high accuracy" isn't enough. A doctor needs to know *why* a model thinks a patient has pneumonia. This project is my hands-on study of **Accuracy vs. Explainability** in clinical diagnostics.
 
 ---
 
